@@ -1,0 +1,2 @@
+#display algo
+print ("algo")
